@@ -109,7 +109,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 - **Pareja de trabajo, si procede:** Natalia,Allinson,Cristina
 - **Rol o tarea principal:** osmosis de patatas
 - **Modalidad realmente realizada:** Real autorizada / 
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Código o descripción del material/dataset:** 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
