@@ -117,17 +117,17 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Autorización o modalidad asignada |real autorizada  |
+| PNT, fuente o material docente consultado | PNT ( procedimiento de evaluacion osmótica|
+| Equipo/material realmente utilizado | [balanza de precisión,vaso de precipitado de 250m,probeta graduada, bisturí, resgla, pinzas, papel absorbente, patata,agua destilada y NaCI|
+| Medidas de seguridad aplicadas | uso de bata de laboratorio, manejo con precaución de material cortante y correcto desecho de residuos biológicos y soluciones químicas|
+| Condición de los datos : real| [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+[se espera que las porciones de patata sumergidas en la solución hipertonica reduzca su masa y volumen debido a la salida de agaua por ósmosis.Por lo contrario, en el medio hipotonico de agua destialada, se espera que mantengan o incremente su turgencia al absorber agua a favor del gradiente osmótico
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -135,15 +135,15 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Identificación y procedencia | [rotulado de vasos y muestras(hiper/hipo)] | Sí | permite diferenciar la solución salina del agua destilada|
+| Material, imagen o datos legibles | tomas fotográficas y anotaciones de pesaje legible| Sí| mediciones en la balanza y valores porcentuales claros|
+| Gestión de residuos generados | desecho de la masa vegetal y aclarado de vasos | Sí  | manejo higienico y correcto del material de vidrio |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
+| masa inical y masa final ( HIPER- NaCI) | Mi=14,65g  mf=10,62g| muestra expuesta a medio hipertonico salino |
 | [Registro 2] | [Completa] | [Completa] |
 | [Registro 3] | [Completa] | [Completa] |
 
