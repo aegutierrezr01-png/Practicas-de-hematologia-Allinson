@@ -217,7 +217,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+|  «No se detectaron incidencias»| [Completa] | [Completa] | [No|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -237,19 +237,19 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
+   La etapa más compleja fue sacar las patatas del vaso deprecipitado y posteriormente secarlas, para evitar variaciones en la balanza por agua libre en las superficie 
 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
-   [Respuesta del alumnado]
+   En la solución (hipotonica), la patata perdió agua provocabdo una disminución marcada de peso y ablandamiento del tejido por pérdida de turgencia en el agua destilada, el flujo hídrico hacia afuera fue significativamente menor
 
-**3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
+**3. Conclusiones:**
 
-   [Respuesta del alumnado]
+   la diferencia de gradiente osmótico dictó la dirección de transporte pasivo del agua a través de las membranas biológicas 
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+En hematología, este fenómeno es análogo a las ragilidad osmotica a las fragilidad eritrocitaria a a las respuesta de los gloculos rojos ante medios hipertonicos ( crenación) o hipotónicos ( hemólisis).
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -258,7 +258,7 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Identificador de práctica | `P01` |
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | [ |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
 | Controles | [Resume o enlaza al apartado 9.1] |
