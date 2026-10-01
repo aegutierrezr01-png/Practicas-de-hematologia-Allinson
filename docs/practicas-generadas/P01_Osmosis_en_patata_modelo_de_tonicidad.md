@@ -135,7 +135,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [rotulado de vasos y muestras(hiper/hipo)] | Sí | permite diferenciar la solución salina del agua destilada|
+| Identificación y procedencia | rotulado de vasos y muestras(hiper/hipo) | Sí | permite diferenciar la solución salina del agua destilada|
 | Material, imagen o datos legibles | tomas fotográficas y anotaciones de pesaje legible| Sí| mediciones en la balanza y valores porcentuales claros|
 | Gestión de residuos generados | desecho de la masa vegetal y aclarado de vasos | Sí  | manejo higienico y correcto del material de vidrio |
 
@@ -150,7 +150,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+Se confirmó el fenómeno osmótico. la perdida de peso fue mas pronunciada e la solución hipertonica  que en el emdio hipotónico. La deshidratación de los tejidos vegetales varió según la concentracion osmolar externa
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -223,13 +223,13 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+La membrana celular vegetal actua como una barrera semipermiable.Al introducir el tejido ceular de la patata en un medio hipertónico,  el potencial hídrico externo es menor que el intracelular, provocando un flujo osmótico hacia el exterior para igualar las concentraciones, lo que resulta la perdida de la masa.En el vaso hipotónico,  aunque se esperabaun incremento por entrada de agua, la perdida es menor, se atribuye a procesos de difusión de soluto citplasmaticos o a la saturacion previa del tejido
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Alcanzó el objetivo experimental al desmostrar el comportamiento osmótico la patata bajo diferentes conciones de tonicidad. Las variaciones de la masa registrada respaldan la perdida de volumen por plasmólisis en medios con mayor concentración salina
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
