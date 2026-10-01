@@ -108,7 +108,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 - **Grupo:** 3
 - **Pareja de trabajo, si procede:** Natalia,Allinson,Cristina
 - **Rol o tarea principal:** osmosis de patatas
-- **Modalidad realmente realizada:** Real autorizada / 
+- **Modalidad realmente realizada:** Simulación/ 
 - **Código o descripción del material/dataset:** 
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -256,14 +256,14 @@ En hematología, este fenómeno es análogo a las ragilidad osmotica a las fragi
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 01/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [ |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | grupo(Natalia, Allinson,Cristina) |
+| Modalidad y origen de evidencia | simulada(fotografías y pesajes directos)|
+| Materiales, equipo o fuente usados | [probeta graduada,vasos deprecipitados,patata,NaCI,regla, agua destilada |
+| Controles | Rotulado e Identificación de vasos HIPO Y HIPER|
+| Resultado | Variación de masa: -27,51%(HIPER) Y -12,99%( HIPO)|
+| Interpretación | Ver apartado 12|
+| Incidencias y acciones | [ver apartado 11] |
+| Ruta de residuos | [Eliminación de materiales en sus contenedores correspondientes y aclarado del material|
+| Estado de entrega / Entregado/ pendiente de revisión /
