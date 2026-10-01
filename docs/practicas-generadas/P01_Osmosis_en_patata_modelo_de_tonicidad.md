@@ -143,9 +143,8 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| masa inical y masa final ( HIPER- NaCI) | Mi=14,65g  mf=10,62g| muestra expuesta a medio hipertonico salino |
-| [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| masa inical y masa final ( HIPER- NaCI) | Mi=14,65g  mf=10,62g| muestra expuesta a medio hipertonico salino, perdida neta del 27,51% de su masa por flujo de agua saliente|
+| masa inicial  y final(HIPO-H2O)|mi:15,93g mf:13,86g | masa expuesta a agua destilada.disminucion de masa del 12,99%|
 
 ### 9.3 Resultado principal
 
