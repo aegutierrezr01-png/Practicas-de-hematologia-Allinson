@@ -113,7 +113,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 - **Fecha real de realización:** 06/10/2026
 - **Grupo:** 2
 - **Pareja de trabajo, si procede:** Allinson y Lola
-- **Rol o tarea principal:** Separación de componentes sanguines por centrifugación 
+- **Rol o tarea principal:** Separación de componentes sanguineos por centrifugación 
 - **Modalidad realmente realizada:** Real autorizada / demostración / simulada / documental; describe]
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
