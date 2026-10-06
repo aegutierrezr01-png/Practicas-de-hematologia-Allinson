@@ -128,8 +128,8 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
 | Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
 | RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
-| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Protección, contención y gestión de residuos |       |
+| Condición de los datos (real/ | [Completa]|
 
 ### 8.2 Hipótesis u observación inicial
 
@@ -156,7 +156,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 | Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
 | RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
 | Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
+| Fases reconocidas y transferencia de plasma | [fase leucocitaria] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
 
 ### 9.3 Resultado principal
 
