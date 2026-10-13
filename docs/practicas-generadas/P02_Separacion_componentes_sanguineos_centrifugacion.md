@@ -141,7 +141,7 @@ Espero observar que tras centrifugar la muestra de sangre con EDTA a, la fuerza 
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | Tubo de sangre etiquetado únicamente con código de barras E001026048662 | Sí | La muestra sirve limpia para uso práctico y aprobada para uso docente |
+| Autorización, código anónimo y procedencia docente | Tubo de sangre etiquetado únicamente con código de barras E001026048662 | Sí | La muestra limpia para uso práctico y aprobada para uso docente |
 | Integridad del tubo y compatibilidad con rotor/adaptador | Tubo sin grietas ni fugas, colocado en el adaptador del rotor| Sí| El tubo estaba en perfecto estado y ajustaba bien en la cubeta sin riesgo de rotura.|Parámetros transcritos del PNT o protocolo OMS y equilibrado |Centrífuga Nahita a 2000 rpm durante 15 minutos con carga simétrica | Sí | Colocamos el tubo de muestra y el contrapeso en posiciones opuestas exactas para evitar vibraciones. |
 | Transferencia, residuos y descontaminación según procedimiento y evaluación | Trasvase de plasma con pipeta Pasteur de plástico a tubo secundario| Sí |Se recogió el plasma sin tocar la capa de glóbulos blancos para no contaminar la muestra. |
 
