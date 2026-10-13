@@ -141,7 +141,7 @@ Espero observar que tras centrifugar la muestra de sangre con EDTA a, la fuerza 
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | Tubo de sangre etiquetado únicamente con código de barras E001026048662 | [Sí | La muestra está desidentificada y aprobada para uso docente |
+| Autorización, código anónimo y procedencia docente | Tubo de sangre etiquetado únicamente con código de barras E001026048662 | Sí | La muestra está desidentificada y aprobada para uso docente |
 | Integridad del tubo y compatibilidad con rotor/adaptador | Tubo sin grietas ni fugas, colocado en el adaptador del rotor| Sí| El tubo estaba en perfecto estado y ajustaba bien en la cubeta sin riesgo de rotura.|Parámetros transcritos del PNT o protocolo OMS y equilibrado |Centrífuga Nahita a 2000 rpm durante 15 minutos con carga simétrica | Sí | Colocamos el tubo de muestra y el contrapeso en posiciones opuestas exactas para evitar vibraciones. |
 | Transferencia, residuos y descontaminación según procedimiento y evaluación | Trasvase de plasma con pipeta Pasteur de plástico a tubo secundario| Sí |Se recogió el plasma sin tocar la capa de glóbulos blancos para no contaminar la muestra. |
 
@@ -149,17 +149,16 @@ Espero observar que tras centrifugar la muestra de sangre con EDTA a, la fuerza 
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
-| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
-| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [fase leucocitaria] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
-
+| Código anónimo de muestra |E001026048662 | Sin datos del donante| Real autorizada| Etiqueta pegada al tubo primario |
+| Tubo, centrífuga, rotor y adaptador |Tubo 16 x 100 mm EDTA, centrífuga Nahita MODELO 2645, rotor J1215 |Marca y modelo | Real|  Equipo en correcto estado|
+| RCF, tiempo, temperatura y freno | 2000 rpm, 15 minutos, 20 grados| rpm, minutos, grados centígrados|  protocolo OMS] | Configurado en el panel digital|
+| Aspecto antes y después del giro |Antes sangre roja homogénea, después tres capas separadas | Descripción visual | Real |Plasma hemolizado|
+| Fases reconocidas y transferencia de plasma | Plasma hemolizado arriba, capa fina blanca en medio y glóbulos rojos abajo | [Posición y volumen proporcional | Real| Se pasó el plasma al tubo secundario correctamente |
 ### 9.3 Resultado principal
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental. Incluye un esquema rotulado de las fases observadas e indica si la capa leucoplaquetaria se distinguió claramente.
 
-[Escribe aquí el resultado principal.]
+Después de centrifugar la muestra a 2000 rpm durante 15 minutos, la sangre se separó en tres partes. En la parte superior quedó el plasma hemolizado. En el medio se apreció una línea blanquecina muy fina que corresponde a la capa leucoplaquetaria. En el fondo quedó el paquete de glóbulos rojos de color rojo oscuro. Transferimos el plasma al tubo secundario codificado con la pipeta Pasteur con cuidado de no aspirar la capa intermedia.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -226,19 +225,20 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Hemólisis en la muestra de plasma obtenida (coloración rojiza del sobrenadante). | muestra antigua o conservación inadecuada.
+ | Anotar la presencia de hemólisis en el registro. Para futuras muestras usar sangre que no sea muy antigua y verificar el medio donde se va a conservar.| [Sí, afecta a la calidad visual del plasma y alteraría analíticamente los resultados si fuera para uso clínico, aunque permitió completar el objetivo docente de separación física y trasvase.|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugación las separó. Relaciona la transferencia con la preservación de la interfaz celular, y distingue plasma de componentes transfusionales preparados mediante procesos validados. Separa observación e inferencia; no atribuyas esterilidad, ausencia de plaquetas ni utilidad clínica a la muestra.
 
-[Escribe aquí tu interpretación técnica.]
+La centrifugación separó los componentes según su densidad, quedando los eritrocitos en el fondo, la capa leucoplaquetaria en el medio y el líquido en la parte superior. No obstante, la presencia de una tonalidad rojiza en el sobrenadante confirma que se ha producido hemólisis. Esto ocurre cuando la membrana de parte de los hematíes se rompe y libera hemoglobina al plasma. Esta incidencia demuestra por qué en el laboratorio clínico una muestra hemolizada suele ser motivo de rechazo preanalítico, ya que interfiere en la medición de múltiples parámetros (como el potasio o enzimas). Asimismo se reafirma que el producto obtenido es exclusivamente de uso docente y no apto para fines diagnósticos ni transfusionales.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT o del protocolo OMS aplicado, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
-[Escribe aquí tu conclusión.]
+Logramos cumplir con los objetivos fijados en la práctica de laboratorio. Identifiqué las fases en las que se dividió la muestra tras la centrifugación y pude trasvasar el plasma al tubo secundario sin aspirar la capa leucoplaquetaria. Se aplicó el protocolo de la OMS centrifugando a 2000 rpm durante 15 minutos. Sin embargo, registramos una alteración importante en el aspecto del plasma, ya que presentó un color rojizo claro causado por la hemólisis de la muestra. La práctica ha servido para comprender el proceso físico de separación de componentes y para aprender a reconocer anomalías preanalíticas en el laboratorio, recordando que el plasma obtenido es únicamente de uso docente y no es válido para uso clínico ni transfusional
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -246,33 +246,33 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente? ¿Qué medidas de bioseguridad específicas aplicaste durante el destaponado de los tubos y el trasvase de líquidos?
 
-   [Respuesta del alumnado]
+   El paso que requirió más cuidado fue aspirar el plasma con la pipeta de plástico sin tocar la capa de leucocitos y plaquetas que estaba debajo. Comprobé que lo hice bien porque la capa blanca se quedó intacta en el tubo primario sin ser arrastrada. En cuanto a las medidas de bioseguridad, llevamos en todo momento la bata, los guantes y la protección ocular, abrimos el tubo con suavidad usando papel para evitar salpicaduras o aerosoles y depositamos los residuos en el contenedor biosanitario correspondiente.
 
 **2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
 
-   [Respuesta del alumnado]
+  Diferencié tres fases: el paquete de glóbulos rojos en el fondo, la capa leucoplaquetaria en el centro y el plasma en la parte superior. Al observar la claridad y el color del plasma, se aprecia una alteración clara: no tiene el color amarillo transparente de un plasma normal, sino una tonalidad rojiza compatible con hemólisis. Esto se debe a la rotura de glóbulos rojos que han liberado hemoglobina al líquido durante la extracción la conservación o la manipulación de la muestra. 
 
 **3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
-   [Respuesta del alumnado]
+La capa leucoplaquetaria es muy fina porque la proporción de leucocitos y plaquetas en la sangre es muy pequeña comparada con el volumen total de glóbulos rojos. Si esta capa fuera inusualmente gruesa en una muestra real, indicaría un aumento muy elevado de glóbulos blancos, lo que en clínica se asocia a infecciones graves o procesos como la leucemia. Si la sangre se hubiera recogido en un tubo sin anticoagulante, la muestra habría coagulado y obtendríamos suero en lugar de plasma, mientras que las células quedarían atrapadas dentro del coágulo de fibrina. La diferencia principal es que el plasma conserva los factores de coagulación y el fibrinógeno, mientras que el suero no los contiene porque se consumen al formarse el coágulo.
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica y justifica tu respuesta.
 
-   [Respuesta del alumnado]
+ La separación de plasma y células es un paso preanalítico indispensable para pruebas de coagulación y determinaciones de química clínica. Se realiza para aislar el componente líquido y evitar que el metabolismo de las células vivas altere o consuma los parámetros que se quieren analizar en el laboratorio
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 06/10/2026 |
 | UD / RA / CE | `UD7 / RA07 / CE07.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Pareja, Lola y Allison |
+| Modalidad y origen de evidencia | Real autorizada docente / Muestra del Banco de Sangre|
+| Materiales, equipo o fuente usados | Tubo de ensayo,tubo de la muestra primaria,centrifuga, pipeta Pasteur,gradilla |
+| Controles | Verificados en apartado 9.1 |
+| Resultado | Verificado en apartado 9.3 |
+| Interpretación | Verificada en apartado 12|
+| Incidencias y acciones | Verificadas en apartado 11|
+| Ruta de residuos | Contenedor de residuos biosanitarios|
+| Estado de entrega | pendiente de revisión|
