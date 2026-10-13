@@ -124,7 +124,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Comprobación | Registro |
 |---|---|
 | Autorización de muestra real y código anónimo |Muestra real autorizada para docencia procedente del Banco de Sangre . Código anónimo de barras E001026048662.  |
-| Procedimiento de centrifugación aplicado |Muestra real autorizada para docencia procedente del Banco de Sangre del SES. Código anónimo de barras E001026048662. |
+| Procedimiento de centrifugación aplicado |Muestra real autorizada para docencia procedente del Banco de Sangre. Código anónimo de barras E001026048662. |
 | Evaluación de riesgos y bioseguridad |Medidas seguidas según el Manual de Bioseguridad de la OMS y las normas del laboratorio: uso de bata, guantes de nitrilo, protección ocular, manejo de tubos cerrados y uso de contenedor para residuos biosanitarios  |
 | Compatibilidad tubo–rotor–centrífuga |Tubos con EDTA compatibles con la centrifugadora. Centrífuga clínica Nahita MODELO 2645 con rotor J1215 y adaptadores de goma. Se comprobó la compatibilidad antes del giro. |
 | RCF, tiempo, temperatura y freno aplicados | 2000 rpm, tiempo de 15 minutos, temperatura ambiente y parada paulatina. Fuente: Protocolo OMS. |
@@ -134,19 +134,16 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
-
-[Escribe aquí tu hipótesis u observación inicial.]
-
+Espero observar que tras centrifugar la muestra de sangre con EDTA a, la fuerza centrífuga separe los componentes por densidad. Espero ver tres fases distintas: en el fondo los glóbulos rojos por ser los más densos, en el medio una capa muy fina blanca que es la capa leucoplaquetaria, y arriba del todo el plasma claro y amarillento, no se trabaja con datos simulados.
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | Tubo de sangre etiquetado únicamente con código de barras E001026048662 | [Sí | La muestra está desidentificada y aprobada para uso docente |
+| Integridad del tubo y compatibilidad con rotor/adaptador | Tubo sin grietas ni fugas, colocado en el adaptador del rotor| Sí| El tubo estaba en perfecto estado y ajustaba bien en la cubeta sin riesgo de rotura.|Parámetros transcritos del PNT o protocolo OMS y equilibrado |Centrífuga Nahita a 2000 rpm durante 15 minutos con carga simétrica | Sí | Colocamos el tubo de muestra y el contrapeso en posiciones opuestas exactas para evitar vibraciones. |
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | Trasvase de plasma con pipeta Pasteur de plástico a tubo secundario| Sí |Se recogió el plasma sin tocar la capa de glóbulos blancos para no contaminar la muestra. |
 
 ### 9.2 Registro de observaciones o cálculos
 
