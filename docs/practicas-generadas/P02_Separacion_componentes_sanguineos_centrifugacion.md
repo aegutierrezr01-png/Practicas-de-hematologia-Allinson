@@ -225,8 +225,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| Hemólisis en la muestra de plasma obtenida (coloración rojiza del sobrenadante). | muestra antigua o conservación inadecuada.
- | Anotar la presencia de hemólisis en el registro. Para futuras muestras usar sangre que no sea muy antigua y verificar el medio donde se va a conservar.| [Sí, afecta a la calidad visual del plasma y alteraría analíticamente los resultados si fuera para uso clínico, aunque permitió completar el objetivo docente de separación física y trasvase.|
+| Hemólisis en la muestra de plasma obtenida, coloración rojiza del sobrenadante. | muestra antigua o conservación inadecuada.| Anotar la presencia de hemólisis en el registro. Para futuras muestras usar sangre que no sea muy antigua y verificar el medio donde se va a conservar.| Sí, afecta a la calidad visual del plasma y alteraría analíticamente los resultados si fuera para uso clínico, aunque permitió completar el objetivo docente de separación física y trasvase.|
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -238,7 +237,7 @@ La centrifugación separó los componentes según su densidad, quedando los erit
 
 Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT o del protocolo OMS aplicado, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
-Logramos cumplir con los objetivos fijados en la práctica de laboratorio. Identifiqué las fases en las que se dividió la muestra tras la centrifugación y pude trasvasar el plasma al tubo secundario sin aspirar la capa leucoplaquetaria. Se aplicó el protocolo de la OMS centrifugando a 2000 rpm durante 15 minutos. Sin embargo, registramos una alteración importante en el aspecto del plasma, ya que presentó un color rojizo claro causado por la hemólisis de la muestra. La práctica ha servido para comprender el proceso físico de separación de componentes y para aprender a reconocer anomalías preanalíticas en el laboratorio, recordando que el plasma obtenido es únicamente de uso docente y no es válido para uso clínico ni transfusional
+Pudimos cumplir con los objetivos fijados en la práctica de laboratorio. Identifiqué las fases en las que se dividió la muestra tras la centrifugación y pude trasvasar el plasma al tubo secundario sin aspirar la capa leucoplaquetaria. Se aplicó el protocolo de la OMS centrifugando a 2000 rpm durante 15 minutos. Sin embargo, registramos una alteración importante en el aspecto del plasma, ya que presentó un color rojizo claro causado por la hemólisis de la muestra. La práctica ha servido para comprender el proceso físico de separación de componentes y para aprender a reconocer anomalías preanalíticas en el laboratorio, recordando que el plasma obtenido es únicamente de uso docente y no es válido para uso clínico ni transfusional
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
