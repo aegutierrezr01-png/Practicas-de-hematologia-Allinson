@@ -114,8 +114,8 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 - **Grupo:** 2
 - **Pareja de trabajo, si procede:** Allinson y Lola
 - **Rol o tarea principal:** Separación de componentes sanguineos por centrifugación 
-- **Modalidad realmente realizada:** Real autorizada / demostración / simulada / documental; describe]
-- **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
+- **Modalidad realmente realizada:** Real autorizada
+- **Código o descripción del material/dataset:** E001026048662
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -123,13 +123,13 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
-| Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
-| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
-| Protección, contención y gestión de residuos |       |
-| Condición de los datos (real/ | [Completa]|
+| Autorización de muestra real y código anónimo |Muestra real autorizada para docencia procedente del Banco de Sangre . Código anónimo de barras E001026048662.  |
+| Procedimiento de centrifugación aplicado |Muestra real autorizada para docencia procedente del Banco de Sangre del SES. Código anónimo de barras E001026048662. |
+| Evaluación de riesgos y bioseguridad |Medidas seguidas según el Manual de Bioseguridad de la OMS y las normas del laboratorio: uso de bata, guantes de nitrilo, protección ocular, manejo de tubos cerrados y uso de contenedor para residuos biosanitarios  |
+| Compatibilidad tubo–rotor–centrífuga |Tubos con EDTA compatibles con la centrifugadora. Centrífuga clínica Nahita MODELO 2645 con rotor J1215 y adaptadores de goma. Se comprobó la compatibilidad antes del giro. |
+| RCF, tiempo, temperatura y freno aplicados | 2000 rpm, tiempo de 15 minutos, temperatura ambiente y parada paulatina. Fuente: Protocolo OMS. |
+| Protección, contención y gestión de residuos |  Contención en gradilla metálica,protección papel absorbente en la zona de trabajo y eliminación de residuos en contenedor de riesgo biológico.     |
+| Condición de los datos |Real autorizada
 
 ### 8.2 Hipótesis u observación inicial
 
