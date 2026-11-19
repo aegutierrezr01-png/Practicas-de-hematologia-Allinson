@@ -1,7 +1,4 @@
 
-title: "P08 — Recuento manual de hematíes" practice_id: "P08" unit: "UD4" learning_outcomes: "RA03" assessment_criteria: "CE03.d, CE03.g" practice_status: "CONDITIONAL" page_type: practical-notebook student_completion: individual reference_document: "PRACTICAL_PROGRAM.md — P08"
-P08 — Recuento manual de hematíes
-Estado de esta página: Completa individualmente los bloques [ALUMNADO · RELLENABLE]. Se prevé un recuento real supervisado con sangre autorizada del Banco de Sangre del SES o sangre capilar obtenida conforme al protocolo local. La práctica sigue CONDITIONAL: el diseño no sustituye la validación ni autorización del centro.
 
 1. Identificación de la práctica
 Campo	Información
